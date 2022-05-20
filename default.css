@@ -8,7 +8,7 @@ body /*Применяются стили для всех тегов внутри
 {
 	margin: 0px;
 	padding: 0px;
-	background: #2F4F4F;
+	background: #000000;
 	font-family: 'Source Sans Pro', sans-serif;
 	font-size: 11pt;
 	font-weight: 300;
@@ -331,7 +331,7 @@ ul.style3 .icon
 #header-featured
 {
 	padding: 10em 0em;
-	background-image: url(images/Баннер.jpg); /*Здесь можно поменять картинку для баннера*/
+	background-image: url(images/SPORT.jpg); /*Здесь можно поменять картинку для баннера*/
 	background-position: center; /*Позиция картинки*/
 	background-size: cover;
 	
@@ -343,9 +343,9 @@ ul.style3 .icon
 	overflow: hidden;
 	height:500px;
 	width:1024px;
-	text-align:center; /*Располжеие текста*/
-	color: #F0FFF0; /*Цвет текста (лучше задавайте так: #FFFFFF)*/
-	font-size: 2.5em; /*Размер текста (лучше задавайте так: 14pt)*/
+	text-align: center; /*Располжеие текста*/
+	color: #32CD32; /*Цвет текста (лучше задавайте так: #FFFFFF)*/
+	font-size: 1.5em; /*Размер текста (лучше задавайте так: 14pt)*/
 }
 
 
@@ -354,7 +354,7 @@ ul.style3 .icon
 	padding-bottom: 0.50em;
 	font-weight: 400;
 	font-size: 2.0em; /*Размер шрифта*/
-	color: #F0FFF0; /*Цвет текста*/
+	color: #FF0000; /*Цвет текста*/
 }
 
 
@@ -363,7 +363,7 @@ ul.style3 .icon
 #mainn{
 	padding-top: 50px; /*Сколько оступ сверху для данного контейнера*/
 	padding: 2em; /*Сколько оступ со всех сторон*/
-	color: #F0FFF0;
+	color: #32CD32;
 }
 
 p .tex_color{
@@ -375,7 +375,7 @@ p .tex_color{
 }
 
 #mainn_tex h3{
-	color: #F0FFF0;
+	color: #FF0000;
 }
 
 
@@ -388,7 +388,7 @@ p .tex_color{
 #foodmenu .title{
 	font-family: 'Source Sans Pro', sans-serif; /*Семейство шрифта для текста "Вкусная и свежая еда"*/
 	text-align: center; /*Расположение текста по центру "Вкусная и свежая еда"*/
-	color:#F0FFF0; /*Цвет текста "Вкусная и свежая еда"*/
+	color:#FF0000; /*Цвет текста "Вкусная и свежая еда"*/
 	font-size: 20pt; /*Размер текста "Вкусная и свежая еда"*/
 }
 #foodmenu .top-menu li{
